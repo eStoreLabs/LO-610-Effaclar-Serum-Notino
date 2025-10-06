@@ -20,9 +20,9 @@
             "data": [
               {
                 "name": "asset",
-                "value": "KV.jpg",
+                "value": "KV.png",
                 "element": "img",
-                "alt": "Effaclair Serum. Skoncentrowane serum dla skóry trądzikowej o właściwościach peelingujących",
+                "alt": "",
                 "properties": {}
               }
             ],
@@ -41,9 +41,9 @@
             "data": [
               {
                 "name": "asset",
-                "value": "MOD-02.jpg",
+                "value": "MOD-02.png",
                 "element": "img",
-                "alt": "Effaclar Serum. Na uporczywe wypryski i przebarwienia potrądzikowe. Właściwości peelingujące. Zawiera 3 kwasy o wysokiej koncentracji",
+                "alt": "",
                 "properties": {}
               }
             ],
@@ -105,7 +105,7 @@
             "data": [
               {
                 "name": "asset",
-                "value": "MOD-03.jpg",
+                "value": "MOD-03.png",
                 "element": "img",
                 "alt": "",
                 "properties": {}
@@ -126,7 +126,7 @@
             "data": [
               {
                 "name": "asset",
-                "value": "MOD-04.jpg",
+                "value": "MOD-04.png",
                 "element": "img",
                 "alt": "",
                 "properties": {}
@@ -147,14 +147,14 @@
             "data": [
               {
                 "name": "columnOneTitle",
-                "value": "Odkryj bestsellery La Roche-Posay",
-                "element": "h2",
+                "value": "<p><b>Odkryj bestsellery</b><br>La Roche-Posay</p>",
+                "element": "DangerHtml",
                 "properties": {
                   "fontSize": "30px",
                   "fontFamily": "Roboto",
                   "textTransform": "uppercase",
                   "color": "#111111",
-                  "fontWeight": "700",
+                  "fontWeight": "400",
                   "marginBottom": "10px",
                   "textAlign": "center"
                 }
@@ -183,15 +183,17 @@
             "data": [
               {
                 "name": "columnOneTitle",
-                "value": "Balsam regenerujący o potrójnym działaniu",
-                "element": "h6",
+                "value": "<p><span style=\"color:#058AC5\"><br>BALSAM REGENERUJĄCY<br></span> o potrójnym działaniu</p>",
+                "element": "DangerHtml",
                 "properties": {
-                  "fontSize": "16px",
+                  "fontSize": "12px",
                   "fontFamily": "Roboto",
                   "color": "#111111",
                   "fontWeight": "400",
                   "marginTop": "10px",
-                  "textAlign": "center"
+                  "textAlign": "center",
+                  "borderLeft": "10px solid #058AC5",
+                  "paddingLeft": "6px"
                 }
               },
               {
@@ -202,22 +204,24 @@
               },
               {
                 "name": "columnOneAsset",
-                "value": "MOD-05-A.jpg",
+                "value": "MOD-05-A.png",
                 "element": "img",
                 "alt": "",
                 "properties": {}
               },
               {
                 "name": "columnTwoTitle",
-                "value": "Regenerujące i\u00a0ujędrniajace serum",
-                "element": "h6",
+                "value": "<p><br>Regenerujące i<br><span style=\"color:#058AC5\">UJĘDRNIAJĄCE SERUM</span></p>",
+                "element": "DangerHtml",
                 "properties": {
-                  "fontSize": "16px",
+                  "fontSize": "12px",
                   "fontFamily": "Roboto",
                   "color": "#111111",
                   "fontWeight": "400",
                   "marginTop": "10px",
-                  "textAlign": "center"
+                  "textAlign": "center",
+                  "borderLeft": "10px solid #058AC5",
+                  "paddingLeft": "6px"
                 }
               },
               {
@@ -228,22 +232,24 @@
               },
               {
                 "name": "columnTwoAsset",
-                "value": "MOD-05-B.jpg",
+                "value": "MOD-05-B.png",
                 "element": "img",
                 "alt": "",
                 "properties": {}
               },
               {
                 "name": "columnThreeTitle",
-                "value": "Silnie regenerujący balsam kojący",
-                "element": "h6",
+                "value": "<p><br>Silnie regenerujący<br><span style=\"color:#058AC5\">BALSAM KOJĄCY</span></p>",
+                "element": "DangerHtml",
                 "properties": {
-                  "fontSize": "16px",
+                  "fontSize": "12px",
                   "fontFamily": "Roboto",
                   "color": "#111111",
                   "fontWeight": "400",
                   "marginTop": "10px",
-                  "textAlign": "center"
+                  "textAlign": "center",
+                  "borderLeft": "10px solid #058AC5",
+                  "paddingLeft": "6px"
                 }
               },
               {
@@ -254,22 +260,24 @@
               },
               {
                 "name": "columnThreeAsset",
-                "value": "MOD-05-C.jpg",
+                "value": "MOD-05-C.png",
                 "element": "img",
                 "alt": "",
                 "properties": {}
               },
               {
                 "name": "columnFourTitle",
-                "value": "Długotrwała ochrona przed UVA",
-                "element": "h6",
+                "value": "<p><span style=\"color:#058AC5\"><br>DŁUGOTRWAŁA<br>OCHRONA</span> przed UVA</p>",
+                "element": "DangerHtml",
                 "properties": {
-                  "fontSize": "16px",
+                  "fontSize": "12px",
                   "fontFamily": "Roboto",
                   "color": "#111111",
                   "fontWeight": "400",
                   "marginTop": "10px",
-                  "textAlign": "center"
+                  "textAlign": "center",
+                  "borderLeft": "10px solid #058AC5",
+                  "paddingLeft": "6px"
                 }
               },
               {
@@ -280,22 +288,24 @@
               },
               {
                 "name": "columnFourAsset",
-                "value": "MOD-05-D.jpg",
+                "value": "MOD-05-D.png",
                 "element": "img",
                 "alt": "",
                 "properties": {}
               },
               {
                 "name": "columnFiveTitle",
-                "value": "Krem o potrójnym działaniu przeciw niedoskonałościom",
-                "element": "h6",
+                "value": "<p>Krem o potrójnym<br>działaniu <span style=\"color:#058AC5\">PRZECIW<br>NIEDOSKONAŁOŚCIOM</span></p>",
+                "element": "DangerHtml",
                 "properties": {
-                  "fontSize": "16px",
+                  "fontSize": "12px",
                   "fontFamily": "Roboto",
                   "color": "#111111",
                   "fontWeight": "400",
                   "marginTop": "10px",
-                  "textAlign": "center"
+                  "textAlign": "center",
+                  "borderLeft": "10px solid #058AC5",
+                  "paddingLeft": "6px"
                 }
               },
               {
@@ -306,7 +316,7 @@
               },
               {
                 "name": "columnFiveAsset",
-                "value": "MOD-05-E.jpg",
+                "value": "MOD-05-E.png",
                 "element": "img",
                 "alt": "",
                 "properties": {}
@@ -328,35 +338,30 @@
             "data": [
               {
                 "name": "columnOneTitle",
-                "value": "Benefity",
+                "value": "",
                 "element": "h6",
-                "properties": {
-                  "fontSize": "16px",
-                  "fontFamily": "Roboto",
-                  "color": "#111111",
-                  "fontWeight": "700",
-                  "marginTop": "10px",
-                  "textAlign": "center"
-                }
+                "properties": {}
               },
               {
                 "name": "columnOneText",
-                "value": "OCZYSZCZA Skutecznie i delikatnie oczyszcza skórę. REDUKUJE I REGULUJE Redukuje nadmiar sebum i pomaga odblokować pory. Utrzymuje prawidłowe pH skóry. ODŚWIEŻA Usuwa zanieczyszczenia i pozostawia skórę czystą i odświeżoną. SKŁADNIKI KWAS SALICYLOWY LHA CYNK",
-                "element": "p",
+                "value": "<b>OCZYSZCZA</b><br>Skutecznie i delikatnie oczyszcza skórę.<br><br><b>REDUKUJE I REGULUJE</b><br>Redukuje nadmiar sebum i pomaga odblokować pory. Utrzymuje prawidłowe pH skóry.<br><br><b>ODŚWIEŻA</b><br>Usuwa zanieczyszczenia i pozostawia skórę czystą i odświeżoną.<br><br>",
+                "element": "DangerHtml",
                 "properties": {
-                  "fontSize": "16px",
+                  "fontSize": "14px",
                   "fontFamily": "Roboto",
                   "color": "#111111",
+                  "backgroundColor": "#F5F5F5",
                   "fontWeight": "400",
-                  "marginTop": "-20px",
-                  "textAlign": "center"
+                  "marginTop": "29px",
+                  "textAlign": "center",
+                  "padding": "20px"
                 }
               },
               {
                 "name": "columnOneAsset",
-                "value": "MOD-06-A.jpg",
+                "value": "MOD-06-A.png",
                 "element": "img",
-                "alt": "żel oczyszczający",
+                "alt": "",
                 "properties": {}
               },
               {
@@ -364,9 +369,9 @@
                 "value": "Benefity",
                 "element": "h6",
                 "properties": {
-                  "fontSize": "16px",
+                  "fontSize": "24px",
                   "fontFamily": "Roboto",
-                  "color": "#111111",
+                  "color": "#00A5A7",
                   "fontWeight": "700",
                   "marginTop": "10px",
                   "textAlign": "center"
@@ -374,55 +379,52 @@
               },
               {
                 "name": "columnTwoText",
-                "value": "PEELINGUJE Dzięki zawartości trzech kwasów intensywnie wygładza powierzchnię skóry bez uczucia dyskomfortu. Wspomaga odnowę naskórka. REDUKUJE NIEDOSKONAŁOŚCI Widocznie redukuje krosty i zaskórniki. REDUKUJE PRZEBARWIENIA Przebarwienia potrądzikowe są mniej widoczne, a skóra bardziej rozświetlona. SKŁADNIKI KWAS GLIKOLOWY KWAS SALICYLOWY LHA",
-                "element": "p",
+                "value": "<b>PEELINGUJE</b><br>Dzięki zawartości trzech kwasów intensywnie wygładza powierzchnię skóry bez uczucia dyskomfortu. Wspomaga odnowę naskórka.<br><br><b>REDUKUJE NIEDOSKONAŁOŚCI</b><br>Widocznie redukuje krosty i zaskórniki.<br><br><b>REDUKUJE PRZEBARWIENIA</b><br>Przebarwienia potrądzikowe są mniej widoczne, a skóra bardziej rozświetlona.",
+                "element": "DangerHtml",
                 "properties": {
-                  "fontSize": "16px",
+                  "fontSize": "14px",
                   "fontFamily": "Roboto",
                   "color": "#111111",
+                  "backgroundColor": "#F5F5F5",
                   "fontWeight": "400",
-                  "marginTop": "-20px",
-                  "textAlign": "center"
+                  "marginTop": "0px",
+                  "textAlign": "center",
+                  "padding": "20px"
                 }
               },
               {
                 "name": "columnTwoAsset",
-                "value": "MOD-06-B.jpg",
+                "value": "MOD-06-B.png",
                 "element": "img",
-                "alt": "A.z. krem-żel",
+                "alt": "",
                 "properties": {}
               },
               {
                 "name": "columnThreeTitle",
-                "value": "Benefity",
+                "value": "",
                 "element": "h6",
-                "properties": {
-                  "fontSize": "16px",
-                  "fontFamily": "Roboto",
-                  "color": "#111111",
-                  "fontWeight": "700",
-                  "marginTop": "10px",
-                  "textAlign": "center"
-                }
+                "properties": {}
               },
               {
                 "name": "columnThreeText",
-                "value": "DŁUGOTRWALE CHRONI PRZED PROMIENIOWANIEM UV Ochrona przed UVA/UVB oraz ultradługimi promieniami UVA. ODPOWIEDNI DLA SKÓRY WRAŻLIWEJ I SKŁONNEJ DO ALERGII SŁONECZNEJ Koi i odżywia skórę. BARDZO LEKKA, NIEWIDOCZNA NA SKÓRZE KONSYSTENCJA Nie pozostawia białych śladów na skórze. SKŁADNIKI MEXORYL 400 GLICERYNA WODA TERMALNA Z LA ROCHE-POSAY",
-                "element": "p",
+                "value": "<b>DŁUGOTRWALE CHRONI PRZED PROMIENIOWANIEM UV</b><br>Ochrona przed UVA/UVB oraz ultradługimi promieniami UVA.<br><br><b>ODPOWIEDNI DLA SKÓRY WRAŻLIWEJ I SKŁONNEJ DO ALERGII SŁONECZNEJ</b>Koi i odżywia skórę.<br><br><b>BARDZO LEKKA, NIEWIDOCZNA NA SKÓRZE KONSYSTENCJA.</b><br>Nie pozostawia białych śladów na skórze.",
+                "element": "DangerHtml",
                 "properties": {
-                  "fontSize": "16px",
+                  "fontSize": "14px",
                   "fontFamily": "Roboto",
                   "color": "#111111",
+                  "backgroundColor": "#F5F5F5",
                   "fontWeight": "400",
-                  "marginTop": "-20px",
-                  "textAlign": "center"
+                  "marginTop": "29px",
+                  "textAlign": "center",
+                  "padding": "20px"
                 }
               },
               {
                 "name": "columnThreeAsset",
-                "value": "MOD-06-C.jpg",
+                "value": "MOD-06-C.png",
                 "element": "img",
-                "alt": "UV oil cotrol",
+                "alt": "",
                 "properties": {}
               }
             ],
@@ -437,11 +439,118 @@
             }
           },
           {
+            "name": "columnsThree",
+            "variant": "v1",
+            "data": [
+              {
+                "name": "columnOneTitle",
+                "value": "",
+                "element": "h6",
+                "properties": {}
+              },
+              {
+                "name": "columnOneText",
+                "value": "KWAS SALICYLOWY<br>LHA<br>CYNK",
+                "element": "DangerHtml",
+                "properties": {
+                  "fontSize": "14px",
+                  "fontFamily": "Roboto",
+                  "color": "#111111",
+                  "backgroundColor": "#F5F5F5",
+                  "fontWeight": "400",
+                  "marginTop": "29px",
+                  "textAlign": "center",
+                  "padding": "20px"
+                }
+              },
+              {
+                "name": "columnOneAsset",
+                "value": "",
+                "element": "img",
+                "alt": "",
+                "properties": {}
+              },
+              {
+                "name": "columnTwoTitle",
+                "value": "Składniki",
+                "element": "h6",
+                "properties": {
+                  "fontSize": "24px",
+                  "fontFamily": "Roboto",
+                  "color": "#00A5A7",
+                  "fontWeight": "700",
+                  "marginTop": "10px",
+                  "textAlign": "center"
+                }
+              },
+              {
+                "name": "columnTwoText",
+                "value": "KWAS GLIKOLOWY<br>KWAS SALICYLOWY<br>LHA",
+                "element": "DangerHtml",
+                "properties": {
+                  "fontSize": "14px",
+                  "fontFamily": "Roboto",
+                  "color": "#111111",
+                  "backgroundColor": "#F5F5F5",
+                  "fontWeight": "400",
+                  "marginTop": "0px",
+                  "textAlign": "center",
+                  "padding": "20px"
+                }
+              },
+              {
+                "name": "columnTwoAsset",
+                "value": "",
+                "element": "img",
+                "alt": "",
+                "properties": {}
+              },
+              {
+                "name": "columnThreeTitle",
+                "value": "",
+                "element": "h6",
+                "properties": {}
+              },
+              {
+                "name": "columnThreeText",
+                "value": "MEXORYL 400<br>GLICERYNA<br>WODA TERMALNA Z LA ROCHE-POSAY",
+                "element": "DangerHtml",
+                "properties": {
+                  "fontSize": "14px",
+                  "fontFamily": "Roboto",
+                  "color": "#111111",
+                  "backgroundColor": "#F5F5F5",
+                  "fontWeight": "400",
+                  "marginTop": "29px",
+                  "textAlign": "center",
+                  "padding": "19px"
+                }
+              },
+              {
+                "name": "columnThreeAsset",
+                "value": "",
+                "element": "img",
+                "alt": "",
+                "properties": {}
+              }
+            ],
+            "properties": {
+              "padding": "0 35px",
+              "marginTop": "-40px"
+            },
+            "breakpoints": {
+              "xs": true,
+              "sm": true,
+              "md": true,
+              "lg": true
+            }
+          },
+          {
             "name": "keyVisual",
             "data": [
               {
                 "name": "asset",
-                "value": "MOD-07.jpg",
+                "value": "MOD-07.png",
                 "element": "img",
                 "alt": "",
                 "properties": {}
@@ -467,9 +576,11 @@
                 "properties": {
                   "fontSize": "16px",
                   "fontFamily": "Roboto",
-                  "color": "#111111",
+                  "color": "#ffffff",
+                  "backgroundColor": "#00A5A7",
                   "fontWeight": "700",
-                  "marginBottom": "20px"
+                  "marginBottom": "-15px",
+                  "padding": "20px"
                 }
               },
               {
@@ -477,11 +588,13 @@
                 "value": "Trądzik dorosłych może mieć wiele przyczyn i często jest bardziej złożony niż trądzik młodzieńczy. Do najczęstszych czynników należą zaburzenia hormonalne, przewlekły stres, niewłaściwa dieta, palenie papierosów, brak snu oraz błędy w pielęgnacji skóry. Te elementy mogą prowadzić do nadmiernej produkcji sebum, zatykania porów i powstawania stanów zapalnych, co skutkuje pojawieniem się zmian skórnych. Ze względu na różnorodność przyczyn, leczenie trądziku u dorosłych bywa bardziej wymagające i powinno być dostosowane indywidualnie.",
                 "element": "p",
                 "properties": {
-                  "fontSize": "16px",
+                  "fontSize": "14px",
                   "fontFamily": "Roboto",
                   "color": "#111111",
+                  "backgroundColor": "#F5F5F5",
                   "fontWeight": "400",
-                  "marginBottom": "0"
+                  "marginBottom": "0",
+                  "padding": "20px"
                 }
               }
             ],
@@ -507,9 +620,11 @@
                 "properties": {
                   "fontSize": "16px",
                   "fontFamily": "Roboto",
-                  "color": "#111111",
+                  "color": "#ffffff",
+                  "backgroundColor": "#00A5A7",
                   "fontWeight": "700",
-                  "marginBottom": "20px"
+                  "marginBottom": "-15px",
+                  "padding": "20px"
                 }
               },
               {
@@ -517,11 +632,13 @@
                 "value": "W pielęgnacji cery trądzikowej u dorosłych kluczowe jest delikatne, ale dokładne oczyszczanie skóry kosmetykami o odpowiednim pH. Wybieraj lekkie formuły kremów i makijażu oraz codziennie stosuj krem z filtrem, zwłaszcza jeśli używasz leków na trądzik. Sięgaj po łagodne składniki złuszczające, jak kwas salicylowy czy azelainowy, które pomagają oczyszczać pory i rozjaśniać przebarwienia. Pamiętaj też o nawilżaniu skóry – najlepiej sprawdzi się kwas hialuronowy – oraz o wsparciu mikrobiomu, np. przez kosmetyki z prebiotykami. Uzupełnieniem pielęgnacji powinna być zdrowa dieta, ograniczenie używek, regularny sen i ruch. W przypadku nasilonych zmian warto skonsultować się z dermatologiem.",
                 "element": "p",
                 "properties": {
-                  "fontSize": "16px",
+                  "fontSize": "14px",
                   "fontFamily": "Roboto",
                   "color": "#111111",
+                  "backgroundColor": "#F5F5F5",
                   "fontWeight": "400",
-                  "marginBottom": "0"
+                  "marginBottom": "0",
+                  "padding": "20px"
                 }
               }
             ],
@@ -547,9 +664,11 @@
                 "properties": {
                   "fontSize": "16px",
                   "fontFamily": "Roboto",
-                  "color": "#111111",
+                  "color": "#ffffff",
+                  "backgroundColor": "#00A5A7",
                   "fontWeight": "700",
-                  "marginBottom": "20px"
+                  "marginBottom": "-15px",
+                  "padding": "20px"
                 }
               },
               {
@@ -557,11 +676,13 @@
                 "value": "Wstrząśnij przed użyciem. Nałóż na całą twarz, rano lub wieczorem. Zalecamy wcześniejsze oczyszczenie twarzy żelem Effaclar. Stosując produkt, omijaj okolice oczu. W przypadku dostania się produktu do oczu, natychmiast przepłucz je wodą. Używaj w połączeniu z produktem z ochroną przeciwsłoneczną (co najmniej SPF 15). Nie aplikuj na otwarte rany.",
                 "element": "p",
                 "properties": {
-                  "fontSize": "16px",
+                  "fontSize": "14px",
                   "fontFamily": "Roboto",
                   "color": "#111111",
+                  "backgroundColor": "#F5F5F5",
                   "fontWeight": "400",
-                  "marginBottom": "0"
+                  "marginBottom": "0",
+                  "padding": "20px"
                 }
               }
             ],
@@ -582,15 +703,14 @@
             "data": [
               {
                 "name": "columnOneText",
-                "value": "1 Badanie kliniczne na 40 osobach, 4 tygodnie stosowania. 2 Testowane na skórze dorosłych, skłonnej do trądziku.",
-                "element": "p",
+                "value": "1 Badanie kliniczne na 40 osobach, 4 tygodnie stosowania.<br>2 Testowane na skórze dorosłych, skłonnej do trądziku.",
+                "element": "DangerHtml",
                 "properties": {
                   "fontSize": "12px",
                   "fontFamily": "Roboto",
                   "color": "#111111",
                   "fontWeight": "400",
-                  "marginBottom": "0",
-                  "maxWidth": "400px"
+                  "marginBottom": "0"
                 }
               }
             ],
