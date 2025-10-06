@@ -1,0 +1,613 @@
+{
+  "keys": [
+    "la-roche-posay/effaclar-h-krem-nawilzajacy-przeciw-niedoskonalosciom-skory-tradzikowej/p-16128922/"
+  ],
+  "type": 0,
+  "language": "pl-PL",
+  "campaign": "Effaclar Serum",
+  "rpc": "LRP06614",
+  "dateOnSaleFrom": null,
+  "owner": "Jakub-WebDev",
+  "contents": [
+    {
+      "name": "Effaclar Serum",
+      "key": "",
+      "isApproved": false,
+      "rich": {
+        "components": [
+          {
+            "name": "keyVisual",
+            "data": [
+              {
+                "name": "asset",
+                "value": "KV.jpg",
+                "element": "img",
+                "alt": "Effaclair Serum. Skoncentrowane serum dla skóry trądzikowej o właściwościach peelingujących",
+                "properties": {}
+              }
+            ],
+            "properties": {
+              "padding": "0 35px"
+            },
+            "breakpoints": {
+              "xs": true,
+              "sm": true,
+              "md": true,
+              "lg": true
+            }
+          },
+          {
+            "name": "keyVisual",
+            "data": [
+              {
+                "name": "asset",
+                "value": "MOD-02.jpg",
+                "element": "img",
+                "alt": "Effaclar Serum. Na uporczywe wypryski i przebarwienia potrądzikowe. Właściwości peelingujące. Zawiera 3 kwasy o wysokiej koncentracji",
+                "properties": {}
+              }
+            ],
+            "properties": {
+              "padding": "0 35px"
+            },
+            "breakpoints": {
+              "xs": true,
+              "sm": true,
+              "md": true,
+              "lg": true
+            }
+          },
+          {
+            "name": "textComponent",
+            "data": [
+              {
+                "name": "columnOneTitle",
+                "value": "Kluczowe dermatologiczne",
+                "element": "h2",
+                "properties": {
+                  "fontSize": "30px",
+                  "fontFamily": "Roboto",
+                  "textTransform": "uppercase",
+                  "color": "#111111",
+                  "fontWeight": "700",
+                  "marginBottom": "0",
+                  "textAlign": "center"
+                }
+              },
+              {
+                "name": "columnOneText",
+                "value": "składniki aktywne",
+                "element": "p",
+                "properties": {
+                  "fontSize": "30px",
+                  "fontFamily": "Roboto",
+                  "textTransform": "uppercase",
+                  "color": "#111111",
+                  "fontWeight": "300",
+                  "marginTop": "-20px",
+                  "textAlign": "center"
+                }
+              }
+            ],
+            "properties": {
+              "marginTop": "10px",
+              "marginBottom": "15px"
+            },
+            "breakpoints": {
+              "xs": true,
+              "sm": true,
+              "md": true,
+              "lg": true
+            }
+          },
+          {
+            "name": "keyVisual",
+            "data": [
+              {
+                "name": "asset",
+                "value": "MOD-03.jpg",
+                "element": "img",
+                "alt": "",
+                "properties": {}
+              }
+            ],
+            "properties": {
+              "padding": "0 35px"
+            },
+            "breakpoints": {
+              "xs": true,
+              "sm": true,
+              "md": true,
+              "lg": true
+            }
+          },
+          {
+            "name": "keyVisual",
+            "data": [
+              {
+                "name": "asset",
+                "value": "MOD-04.jpg",
+                "element": "img",
+                "alt": "",
+                "properties": {}
+              }
+            ],
+            "properties": {
+              "padding": "0 35px"
+            },
+            "breakpoints": {
+              "xs": true,
+              "sm": true,
+              "md": true,
+              "lg": true
+            }
+          },
+          {
+            "name": "textComponent",
+            "data": [
+              {
+                "name": "columnOneTitle",
+                "value": "Odkryj bestsellery La Roche-Posay",
+                "element": "h2",
+                "properties": {
+                  "fontSize": "30px",
+                  "fontFamily": "Roboto",
+                  "textTransform": "uppercase",
+                  "color": "#111111",
+                  "fontWeight": "700",
+                  "marginBottom": "10px",
+                  "textAlign": "center"
+                }
+              },
+              {
+                "name": "columnOneText",
+                "value": "",
+                "element": "p",
+                "properties": {}
+              }
+            ],
+            "properties": {
+              "marginTop": "10px",
+              "marginBottom": "15px"
+            },
+            "breakpoints": {
+              "xs": true,
+              "sm": true,
+              "md": true,
+              "lg": true
+            }
+          },
+          {
+            "name": "columnsFive",
+            "variant": "v1",
+            "data": [
+              {
+                "name": "columnOneTitle",
+                "value": "Balsam regenerujący o potrójnym działaniu",
+                "element": "h6",
+                "properties": {
+                  "fontSize": "16px",
+                  "fontFamily": "Roboto",
+                  "color": "#111111",
+                  "fontWeight": "400",
+                  "marginTop": "10px",
+                  "textAlign": "center"
+                }
+              },
+              {
+                "name": "columnOneText",
+                "value": "",
+                "element": "p",
+                "properties": {}
+              },
+              {
+                "name": "columnOneAsset",
+                "value": "MOD-05-A.jpg",
+                "element": "img",
+                "alt": "",
+                "properties": {}
+              },
+              {
+                "name": "columnTwoTitle",
+                "value": "Regenerujące i\u00a0ujędrniajace serum",
+                "element": "h6",
+                "properties": {
+                  "fontSize": "16px",
+                  "fontFamily": "Roboto",
+                  "color": "#111111",
+                  "fontWeight": "400",
+                  "marginTop": "10px",
+                  "textAlign": "center"
+                }
+              },
+              {
+                "name": "columnTwoText",
+                "value": "",
+                "element": "p",
+                "properties": {}
+              },
+              {
+                "name": "columnTwoAsset",
+                "value": "MOD-05-B.jpg",
+                "element": "img",
+                "alt": "",
+                "properties": {}
+              },
+              {
+                "name": "columnThreeTitle",
+                "value": "Silnie regenerujący balsam kojący",
+                "element": "h6",
+                "properties": {
+                  "fontSize": "16px",
+                  "fontFamily": "Roboto",
+                  "color": "#111111",
+                  "fontWeight": "400",
+                  "marginTop": "10px",
+                  "textAlign": "center"
+                }
+              },
+              {
+                "name": "columnThreeText",
+                "value": "",
+                "element": "p",
+                "properties": {}
+              },
+              {
+                "name": "columnThreeAsset",
+                "value": "MOD-05-C.jpg",
+                "element": "img",
+                "alt": "",
+                "properties": {}
+              },
+              {
+                "name": "columnFourTitle",
+                "value": "Długotrwała ochrona przed UVA",
+                "element": "h6",
+                "properties": {
+                  "fontSize": "16px",
+                  "fontFamily": "Roboto",
+                  "color": "#111111",
+                  "fontWeight": "400",
+                  "marginTop": "10px",
+                  "textAlign": "center"
+                }
+              },
+              {
+                "name": "columnFourText",
+                "value": "",
+                "element": "p",
+                "properties": {}
+              },
+              {
+                "name": "columnFourAsset",
+                "value": "MOD-05-D.jpg",
+                "element": "img",
+                "alt": "",
+                "properties": {}
+              },
+              {
+                "name": "columnFiveTitle",
+                "value": "Krem o potrójnym działaniu przeciw niedoskonałościom",
+                "element": "h6",
+                "properties": {
+                  "fontSize": "16px",
+                  "fontFamily": "Roboto",
+                  "color": "#111111",
+                  "fontWeight": "400",
+                  "marginTop": "10px",
+                  "textAlign": "center"
+                }
+              },
+              {
+                "name": "columnFiveText",
+                "value": "",
+                "element": "p",
+                "properties": {}
+              },
+              {
+                "name": "columnFiveAsset",
+                "value": "MOD-05-E.jpg",
+                "element": "img",
+                "alt": "",
+                "properties": {}
+              }
+            ],
+            "properties": {
+              "padding": "0 35px"
+            },
+            "breakpoints": {
+              "xs": true,
+              "sm": true,
+              "md": true,
+              "lg": true
+            }
+          },
+          {
+            "name": "columnsThree",
+            "variant": "v1",
+            "data": [
+              {
+                "name": "columnOneTitle",
+                "value": "Benefity",
+                "element": "h6",
+                "properties": {
+                  "fontSize": "16px",
+                  "fontFamily": "Roboto",
+                  "color": "#111111",
+                  "fontWeight": "700",
+                  "marginTop": "10px",
+                  "textAlign": "center"
+                }
+              },
+              {
+                "name": "columnOneText",
+                "value": "OCZYSZCZA Skutecznie i delikatnie oczyszcza skórę. REDUKUJE I REGULUJE Redukuje nadmiar sebum i pomaga odblokować pory. Utrzymuje prawidłowe pH skóry. ODŚWIEŻA Usuwa zanieczyszczenia i pozostawia skórę czystą i odświeżoną. SKŁADNIKI KWAS SALICYLOWY LHA CYNK",
+                "element": "p",
+                "properties": {
+                  "fontSize": "16px",
+                  "fontFamily": "Roboto",
+                  "color": "#111111",
+                  "fontWeight": "400",
+                  "marginTop": "-20px",
+                  "textAlign": "center"
+                }
+              },
+              {
+                "name": "columnOneAsset",
+                "value": "MOD-06-A.jpg",
+                "element": "img",
+                "alt": "żel oczyszczający",
+                "properties": {}
+              },
+              {
+                "name": "columnTwoTitle",
+                "value": "Benefity",
+                "element": "h6",
+                "properties": {
+                  "fontSize": "16px",
+                  "fontFamily": "Roboto",
+                  "color": "#111111",
+                  "fontWeight": "700",
+                  "marginTop": "10px",
+                  "textAlign": "center"
+                }
+              },
+              {
+                "name": "columnTwoText",
+                "value": "PEELINGUJE Dzięki zawartości trzech kwasów intensywnie wygładza powierzchnię skóry bez uczucia dyskomfortu. Wspomaga odnowę naskórka. REDUKUJE NIEDOSKONAŁOŚCI Widocznie redukuje krosty i zaskórniki. REDUKUJE PRZEBARWIENIA Przebarwienia potrądzikowe są mniej widoczne, a skóra bardziej rozświetlona. SKŁADNIKI KWAS GLIKOLOWY KWAS SALICYLOWY LHA",
+                "element": "p",
+                "properties": {
+                  "fontSize": "16px",
+                  "fontFamily": "Roboto",
+                  "color": "#111111",
+                  "fontWeight": "400",
+                  "marginTop": "-20px",
+                  "textAlign": "center"
+                }
+              },
+              {
+                "name": "columnTwoAsset",
+                "value": "MOD-06-B.jpg",
+                "element": "img",
+                "alt": "A.z. krem-żel",
+                "properties": {}
+              },
+              {
+                "name": "columnThreeTitle",
+                "value": "Benefity",
+                "element": "h6",
+                "properties": {
+                  "fontSize": "16px",
+                  "fontFamily": "Roboto",
+                  "color": "#111111",
+                  "fontWeight": "700",
+                  "marginTop": "10px",
+                  "textAlign": "center"
+                }
+              },
+              {
+                "name": "columnThreeText",
+                "value": "DŁUGOTRWALE CHRONI PRZED PROMIENIOWANIEM UV Ochrona przed UVA/UVB oraz ultradługimi promieniami UVA. ODPOWIEDNI DLA SKÓRY WRAŻLIWEJ I SKŁONNEJ DO ALERGII SŁONECZNEJ Koi i odżywia skórę. BARDZO LEKKA, NIEWIDOCZNA NA SKÓRZE KONSYSTENCJA Nie pozostawia białych śladów na skórze. SKŁADNIKI MEXORYL 400 GLICERYNA WODA TERMALNA Z LA ROCHE-POSAY",
+                "element": "p",
+                "properties": {
+                  "fontSize": "16px",
+                  "fontFamily": "Roboto",
+                  "color": "#111111",
+                  "fontWeight": "400",
+                  "marginTop": "-20px",
+                  "textAlign": "center"
+                }
+              },
+              {
+                "name": "columnThreeAsset",
+                "value": "MOD-06-C.jpg",
+                "element": "img",
+                "alt": "UV oil cotrol",
+                "properties": {}
+              }
+            ],
+            "properties": {
+              "padding": "0 35px"
+            },
+            "breakpoints": {
+              "xs": true,
+              "sm": true,
+              "md": true,
+              "lg": true
+            }
+          },
+          {
+            "name": "keyVisual",
+            "data": [
+              {
+                "name": "asset",
+                "value": "MOD-07.jpg",
+                "element": "img",
+                "alt": "",
+                "properties": {}
+              }
+            ],
+            "properties": {
+              "padding": "0 35px"
+            },
+            "breakpoints": {
+              "xs": true,
+              "sm": true,
+              "md": true,
+              "lg": true
+            }
+          },
+          {
+            "name": "textComponent",
+            "data": [
+              {
+                "name": "columnOneTitle",
+                "value": "Co powoduje trądzik u dorosłych?",
+                "element": "h2",
+                "properties": {
+                  "fontSize": "16px",
+                  "fontFamily": "Roboto",
+                  "color": "#111111",
+                  "fontWeight": "700",
+                  "marginBottom": "20px"
+                }
+              },
+              {
+                "name": "columnOneText",
+                "value": "Trądzik dorosłych może mieć wiele przyczyn i często jest bardziej złożony niż trądzik młodzieńczy. Do najczęstszych czynników należą zaburzenia hormonalne, przewlekły stres, niewłaściwa dieta, palenie papierosów, brak snu oraz błędy w pielęgnacji skóry. Te elementy mogą prowadzić do nadmiernej produkcji sebum, zatykania porów i powstawania stanów zapalnych, co skutkuje pojawieniem się zmian skórnych. Ze względu na różnorodność przyczyn, leczenie trądziku u dorosłych bywa bardziej wymagające i powinno być dostosowane indywidualnie.",
+                "element": "p",
+                "properties": {
+                  "fontSize": "16px",
+                  "fontFamily": "Roboto",
+                  "color": "#111111",
+                  "fontWeight": "400",
+                  "marginBottom": "0"
+                }
+              }
+            ],
+            "properties": {
+              "marginTop": "0",
+              "marginBottom": "10px",
+              "padding": "0 10px"
+            },
+            "breakpoints": {
+              "xs": true,
+              "sm": true,
+              "md": true,
+              "lg": true
+            }
+          },
+          {
+            "name": "textComponent",
+            "data": [
+              {
+                "name": "columnOneTitle",
+                "value": "Jak zadbać o cerę trądzikową w dorosłym wieku?",
+                "element": "h2",
+                "properties": {
+                  "fontSize": "16px",
+                  "fontFamily": "Roboto",
+                  "color": "#111111",
+                  "fontWeight": "700",
+                  "marginBottom": "20px"
+                }
+              },
+              {
+                "name": "columnOneText",
+                "value": "W pielęgnacji cery trądzikowej u dorosłych kluczowe jest delikatne, ale dokładne oczyszczanie skóry kosmetykami o odpowiednim pH. Wybieraj lekkie formuły kremów i makijażu oraz codziennie stosuj krem z filtrem, zwłaszcza jeśli używasz leków na trądzik. Sięgaj po łagodne składniki złuszczające, jak kwas salicylowy czy azelainowy, które pomagają oczyszczać pory i rozjaśniać przebarwienia. Pamiętaj też o nawilżaniu skóry – najlepiej sprawdzi się kwas hialuronowy – oraz o wsparciu mikrobiomu, np. przez kosmetyki z prebiotykami. Uzupełnieniem pielęgnacji powinna być zdrowa dieta, ograniczenie używek, regularny sen i ruch. W przypadku nasilonych zmian warto skonsultować się z dermatologiem.",
+                "element": "p",
+                "properties": {
+                  "fontSize": "16px",
+                  "fontFamily": "Roboto",
+                  "color": "#111111",
+                  "fontWeight": "400",
+                  "marginBottom": "0"
+                }
+              }
+            ],
+            "properties": {
+              "marginTop": "0",
+              "marginBottom": "10px",
+              "padding": "0 10px"
+            },
+            "breakpoints": {
+              "xs": true,
+              "sm": true,
+              "md": true,
+              "lg": true
+            }
+          },
+          {
+            "name": "textComponent",
+            "data": [
+              {
+                "name": "columnOneTitle",
+                "value": "Jak używać Effaclar Serum?",
+                "element": "h2",
+                "properties": {
+                  "fontSize": "16px",
+                  "fontFamily": "Roboto",
+                  "color": "#111111",
+                  "fontWeight": "700",
+                  "marginBottom": "20px"
+                }
+              },
+              {
+                "name": "columnOneText",
+                "value": "Wstrząśnij przed użyciem. Nałóż na całą twarz, rano lub wieczorem. Zalecamy wcześniejsze oczyszczenie twarzy żelem Effaclar. Stosując produkt, omijaj okolice oczu. W przypadku dostania się produktu do oczu, natychmiast przepłucz je wodą. Używaj w połączeniu z produktem z ochroną przeciwsłoneczną (co najmniej SPF 15). Nie aplikuj na otwarte rany.",
+                "element": "p",
+                "properties": {
+                  "fontSize": "16px",
+                  "fontFamily": "Roboto",
+                  "color": "#111111",
+                  "fontWeight": "400",
+                  "marginBottom": "0"
+                }
+              }
+            ],
+            "properties": {
+              "marginTop": "0",
+              "marginBottom": "10px",
+              "padding": "0 10px"
+            },
+            "breakpoints": {
+              "xs": true,
+              "sm": true,
+              "md": true,
+              "lg": true
+            }
+          },
+          {
+            "name": "textComponent",
+            "data": [
+              {
+                "name": "columnOneText",
+                "value": "1 Badanie kliniczne na 40 osobach, 4 tygodnie stosowania. 2 Testowane na skórze dorosłych, skłonnej do trądziku.",
+                "element": "p",
+                "properties": {
+                  "fontSize": "12px",
+                  "fontFamily": "Roboto",
+                  "color": "#111111",
+                  "fontWeight": "400",
+                  "marginBottom": "0",
+                  "maxWidth": "400px"
+                }
+              }
+            ],
+            "properties": {
+              "marginTop": "0",
+              "marginBottom": "10px",
+              "padding": "0 10px"
+            },
+            "breakpoints": {
+              "xs": true,
+              "sm": true,
+              "md": true,
+              "lg": true
+            }
+          }
+        ]
+      }
+    }
+  ]
+}
