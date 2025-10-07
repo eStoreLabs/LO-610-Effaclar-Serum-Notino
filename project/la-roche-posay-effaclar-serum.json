@@ -1,6 +1,6 @@
 {
   "keys": [
-    "la-roche-posay/effaclar-h-krem-nawilzajacy-przeciw-niedoskonalosciom-skory-tradzikowej/p-16128922/"
+    "la-roche-posay/effaclar-skoncentrowane-serum-do-skory-z-problemami/"
   ],
   "type": 0,
   "language": "pl-PL",
@@ -598,8 +598,7 @@
               }
             ],
             "properties": {
-              "marginTop": "0",
-              "marginBottom": "10px",
+              "margin": "0 20px 10px 20px",
               "padding": "0 10px"
             },
             "breakpoints": {
@@ -638,8 +637,7 @@
               }
             ],
             "properties": {
-              "marginTop": "0",
-              "marginBottom": "10px",
+              "margin": "0 20px 10px 20px",
               "padding": "0 10px"
             },
             "breakpoints": {
@@ -678,8 +676,7 @@
               }
             ],
             "properties": {
-              "marginTop": "0",
-              "marginBottom": "10px",
+              "margin": "0 20px 10px 20px",
               "padding": "0 10px"
             },
             "breakpoints": {
@@ -706,8 +703,7 @@
               }
             ],
             "properties": {
-              "marginTop": "0",
-              "marginBottom": "10px",
+              "margin": "0 20px 10px 20px",
               "padding": "0 10px"
             },
             "breakpoints": {
