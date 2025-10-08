@@ -293,7 +293,7 @@
               },
               {
                 "name": "columnOneAsset",
-                "value": "MOD-05-A.png",
+                "value": "MOD-05-A.jpg",
                 "element": "img",
                 "alt": "",
                 "properties": {}
@@ -319,7 +319,7 @@
               },
               {
                 "name": "columnTwoAsset",
-                "value": "MOD-05-B.png",
+                "value": "MOD-05-B.jpg",
                 "element": "img",
                 "alt": "",
                 "properties": {}
@@ -345,7 +345,7 @@
               },
               {
                 "name": "columnThreeAsset",
-                "value": "MOD-05-C.png",
+                "value": "MOD-05-C.jpg",
                 "element": "img",
                 "alt": "",
                 "properties": {}
@@ -371,7 +371,7 @@
               },
               {
                 "name": "columnFourAsset",
-                "value": "MOD-05-D.png",
+                "value": "MOD-05-D.jpg",
                 "element": "img",
                 "alt": "",
                 "properties": {}
@@ -397,7 +397,7 @@
               },
               {
                 "name": "columnFiveAsset",
-                "value": "MOD-05-E.png",
+                "value": "MOD-05-E.jpg",
                 "element": "img",
                 "alt": "",
                 "properties": {}
